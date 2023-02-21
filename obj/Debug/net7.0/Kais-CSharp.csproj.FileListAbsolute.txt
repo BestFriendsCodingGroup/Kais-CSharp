@@ -1,0 +1,15 @@
+/workspaces/Kais-CSharp/bin/Debug/net7.0/Kais-CSharp
+/workspaces/Kais-CSharp/bin/Debug/net7.0/Kais-CSharp.deps.json
+/workspaces/Kais-CSharp/bin/Debug/net7.0/Kais-CSharp.runtimeconfig.json
+/workspaces/Kais-CSharp/bin/Debug/net7.0/Kais-CSharp.dll
+/workspaces/Kais-CSharp/bin/Debug/net7.0/Kais-CSharp.pdb
+/workspaces/Kais-CSharp/obj/Debug/net7.0/Kais-CSharp.csproj.AssemblyReference.cache
+/workspaces/Kais-CSharp/obj/Debug/net7.0/Kais-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Kais-CSharp/obj/Debug/net7.0/Kais-CSharp.AssemblyInfoInputs.cache
+/workspaces/Kais-CSharp/obj/Debug/net7.0/Kais-CSharp.AssemblyInfo.cs
+/workspaces/Kais-CSharp/obj/Debug/net7.0/Kais-CSharp.csproj.CoreCompileInputs.cache
+/workspaces/Kais-CSharp/obj/Debug/net7.0/Kais-CSharp.dll
+/workspaces/Kais-CSharp/obj/Debug/net7.0/refint/Kais-CSharp.dll
+/workspaces/Kais-CSharp/obj/Debug/net7.0/Kais-CSharp.pdb
+/workspaces/Kais-CSharp/obj/Debug/net7.0/Kais-CSharp.genruntimeconfig.cache
+/workspaces/Kais-CSharp/obj/Debug/net7.0/ref/Kais-CSharp.dll
